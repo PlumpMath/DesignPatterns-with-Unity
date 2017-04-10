@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 13c15e125067dbc45bb0159558f19602
+timeCreated: 1491851545
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Affogato
+  fontNames:
+  - Affogato
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

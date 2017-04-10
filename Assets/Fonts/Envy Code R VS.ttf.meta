@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: beb311222c8498143934e391c5a618f1
+timeCreated: 1491851546
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Envy Code R VS
+  fontNames:
+  - Envy Code R VS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
